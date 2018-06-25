@@ -1,0 +1,10 @@
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000079-1457785788091.wav	0ms:1230ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010115000004-1457793924425.wav	0ms:2010ms	2130ms:3030ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000051-1457752058554.wav	0ms:2680ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000012-1457793457681.wav	0ms:1270ms	1280ms:2180ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000048-1457773434787.wav	0ms:2120ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000053-1457754316053.wav	0ms:1310ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000081-1457752376248.wav	0ms:1620ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000075-1457773741053.wav	0ms:900ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000074-1457715174726.wav	0ms:990ms
+/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20160312/010116000048-1457789161478.wav	0ms:940ms
