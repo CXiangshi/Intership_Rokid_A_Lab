@@ -1,7 +1,0 @@
-testwav/E66F46825B634B55A19C8E8B1A8CAECB-96393020D4BC4893B54CDA54E7E9D368-XYMN000183D000B6-4-15258.wav	0ms:1260ms	2670ms:3690ms
-/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20170605/0201021717000939-1496609954906.wav	30ms:1420ms
-/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20170605/0201021717000939-1496598063961.wav	0ms:1290ms	1300ms:2200ms
-/home/xdwang/wavNOISE/rokid_online_wav/rokid_online_p1/20170605/0201021717000939-1496609954906.wav	50ms:1420ms
-/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20170518/0201021716000152-1495038311108.wav	0ms:1300ms
-/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20170518/0201021716000152-1495038305191.wav	0ms:1030ms
-/home/xdwang/wavORG/rokid_online_wav/rokid_online_p1/20170518/0201021712001567-1495064225160.wav	0ms:930ms
