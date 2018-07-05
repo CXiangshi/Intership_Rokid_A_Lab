@@ -1,0 +1,138 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AvgBytesPerSec	main.cpp	/^    int AvgBytesPerSec;$/;"	m	struct:WAVE_HEADERTag	file:
+AvgBytesPerSec	vad/main.cpp	/^    int AvgBytesPerSec;$/;"	m	struct:WAVE_HEADERTag	file:
+BitPerSample	main.cpp	/^    short  BitPerSample;$/;"	m	struct:WAVE_HEADERTag	file:
+BitPerSample	vad/main.cpp	/^    short  BitPerSample;$/;"	m	struct:WAVE_HEADERTag	file:
+Channels	main.cpp	/^    short  Channels;$/;"	m	struct:WAVE_HEADERTag	file:
+Channels	vad/main.cpp	/^    short  Channels;$/;"	m	struct:WAVE_HEADERTag	file:
+FillWaveHeader	main.cpp	/^void FillWaveHeader(WAVE_HEADER *pHdr, int nChunkLen, int nChannels, int nSampleFreq, int nBytesPerSample) {$/;"	f
+FillWaveHeader	vad/main.cpp	/^void FillWaveHeader(WAVE_HEADER *pHdr, int nChunkLen, int nChannels, int nSampleFreq, int nBytesPerSample) {$/;"	f
+FormatTag	main.cpp	/^    short  FormatTag;$/;"	m	struct:WAVE_HEADERTag	file:
+FormatTag	vad/main.cpp	/^    short  FormatTag;$/;"	m	struct:WAVE_HEADERTag	file:
+INFORMAT_FLOAT	main.cpp	73;"	d	file:
+INFORMAT_FLOAT	vad/main.cpp	73;"	d	file:
+INFORMAT_INT16BIT	main.cpp	71;"	d	file:
+INFORMAT_INT16BIT	vad/main.cpp	71;"	d	file:
+INFORMAT_INT24BIT	main.cpp	72;"	d	file:
+INFORMAT_INT24BIT	vad/main.cpp	72;"	d	file:
+NNVAPI	NNVadIntf.h	44;"	d
+NNVAPI	vad/NNVadIntf.h	44;"	d
+NNV_HANDLE	NNVadIntf.h	/^typedef void	*NNV_HANDLE;$/;"	t
+NNV_HANDLE	vad/NNVadIntf.h	/^typedef void	*NNV_HANDLE;$/;"	t
+OUTFORMAT_FLOAT	main.cpp	75;"	d	file:
+OUTFORMAT_FLOAT	vad/main.cpp	75;"	d	file:
+OUTFORMAT_INT16BIT	main.cpp	74;"	d	file:
+OUTFORMAT_INT16BIT	vad/main.cpp	74;"	d	file:
+PI	main.cpp	38;"	d	file:
+PI	vad/main.cpp	38;"	d	file:
+Pcmfilelen	main.cpp	/^    int Pcmfilelen;$/;"	m	struct:WAVE_HEADERTag	file:
+Pcmfilelen	vad/main.cpp	/^    int Pcmfilelen;$/;"	m	struct:WAVE_HEADERTag	file:
+RIFF	main.cpp	/^    char RIFF[4];$/;"	m	struct:WAVE_HEADERTag	file:
+RIFF	vad/main.cpp	/^    char RIFF[4];$/;"	m	struct:WAVE_HEADERTag	file:
+ReadWaveFile	main.cpp	/^int ReadWaveFile(const char *szFileName, int iInFormat, int iOutFormat,$/;"	f
+ReadWaveFile	vad/main.cpp	/^int ReadWaveFile(const char *szFileName, int iInFormat, int iOutFormat,$/;"	f
+SamplePerSec	main.cpp	/^    int SamplePerSec;$/;"	m	struct:WAVE_HEADERTag	file:
+SamplePerSec	vad/main.cpp	/^    int SamplePerSec;$/;"	m	struct:WAVE_HEADERTag	file:
+TestVad	main.cpp	/^int TestVad() {$/;"	f
+TestVad	vad/main.cpp	/^int TestVad() {$/;"	f
+TestVadShort	main.cpp	/^int TestVadShort() {$/;"	f
+TestVadShort	vad/main.cpp	/^int TestVadShort() {$/;"	f
+VAD_FRAME_LENMS	NNVadIntf.h	30;"	d
+VAD_FRAME_LENMS	vad/NNVadIntf.h	30;"	d
+VAD_FRAME_SIZE	NNVadIntf.h	31;"	d
+VAD_FRAME_SIZE	vad/NNVadIntf.h	31;"	d
+VAD_MAX_FRAME_NUM	NNVadIntf.h	34;"	d
+VAD_MAX_FRAME_NUM	vad/NNVadIntf.h	34;"	d
+VAD_MAX_LENGTH_SEC	NNVadIntf.h	33;"	d
+VAD_MAX_LENGTH_SEC	vad/NNVadIntf.h	33;"	d
+VAD_MODE_DNN	NNVadIntf.h	37;"	d
+VAD_MODE_DNN	vad/NNVadIntf.h	37;"	d
+VAD_MODE_DNNENERGY	NNVadIntf.h	39;"	d
+VAD_MODE_DNNENERGY	vad/NNVadIntf.h	39;"	d
+VAD_MODE_ENERGY	NNVadIntf.h	38;"	d
+VAD_MODE_ENERGY	vad/NNVadIntf.h	38;"	d
+VAD_MODE_WEBRTC	NNVadIntf.h	40;"	d
+VAD_MODE_WEBRTC	vad/NNVadIntf.h	40;"	d
+VAD_SAMPLE_RATE	NNVadIntf.h	29;"	d
+VAD_SAMPLE_RATE	vad/NNVadIntf.h	29;"	d
+VAD_SAMPLE_RATEKHZ	NNVadIntf.h	28;"	d
+VAD_SAMPLE_RATEKHZ	vad/NNVadIntf.h	28;"	d
+VD_HANDLE	NNVadIntf.h	/^typedef void	*VD_HANDLE;$/;"	t
+VD_HANDLE	vad/NNVadIntf.h	/^typedef void	*VD_HANDLE;$/;"	t
+VD_PARAM_BASERANGE	NNVadIntf.h	59;"	d
+VD_PARAM_BASERANGE	vad/NNVadIntf.h	59;"	d
+VD_PARAM_BEGINPITCH_FRAMENUM	NNVadIntf.h	116;"	d
+VD_PARAM_BEGINPITCH_FRAMENUM	vad/NNVadIntf.h	116;"	d
+VD_PARAM_CTXFRAMENUM	NNVadIntf.h	58;"	d
+VD_PARAM_CTXFRAMENUM	vad/NNVadIntf.h	58;"	d
+VD_PARAM_ENBLEPITCH	NNVadIntf.h	115;"	d
+VD_PARAM_ENBLEPITCH	vad/NNVadIntf.h	115;"	d
+VD_PARAM_ENDPITCH_FRAMENUM	NNVadIntf.h	117;"	d
+VD_PARAM_ENDPITCH_FRAMENUM	vad/NNVadIntf.h	117;"	d
+VD_PARAM_ESTIFRAMENUM	NNVadIntf.h	53;"	d
+VD_PARAM_ESTIFRAMENUM	vad/NNVadIntf.h	53;"	d
+VD_PARAM_MAXDYNARANGE	NNVadIntf.h	61;"	d
+VD_PARAM_MAXDYNARANGE	vad/NNVadIntf.h	61;"	d
+VD_PARAM_MAXENERGY	NNVadIntf.h	55;"	d
+VD_PARAM_MAXENERGY	vad/NNVadIntf.h	55;"	d
+VD_PARAM_MAXSPEECHFRAMENUM	NNVadIntf.h	109;"	d
+VD_PARAM_MAXSPEECHFRAMENUM	vad/NNVadIntf.h	109;"	d
+VD_PARAM_MINAECENERGY	NNVadIntf.h	62;"	d
+VD_PARAM_MINAECENERGY	vad/NNVadIntf.h	62;"	d
+VD_PARAM_MINDYNAENERGY	NNVadIntf.h	63;"	d
+VD_PARAM_MINDYNAENERGY	vad/NNVadIntf.h	63;"	d
+VD_PARAM_MINDYNARANGE	NNVadIntf.h	60;"	d
+VD_PARAM_MINDYNARANGE	vad/NNVadIntf.h	60;"	d
+VD_PARAM_MINENERGY	NNVadIntf.h	54;"	d
+VD_PARAM_MINENERGY	vad/NNVadIntf.h	54;"	d
+VD_PARAM_MINSILFRAMENUM	NNVadIntf.h	111;"	d
+VD_PARAM_MINSILFRAMENUM	vad/NNVadIntf.h	111;"	d
+VD_PARAM_MINSILRATIO	NNVadIntf.h	113;"	d
+VD_PARAM_MINSILRATIO	vad/NNVadIntf.h	113;"	d
+VD_PARAM_MINSPEECHFRAMENUM	NNVadIntf.h	107;"	d
+VD_PARAM_MINSPEECHFRAMENUM	vad/NNVadIntf.h	107;"	d
+VD_PARAM_MINVOCFRAMENUM	NNVadIntf.h	103;"	d
+VD_PARAM_MINVOCFRAMENUM	vad/NNVadIntf.h	103;"	d
+VD_PARAM_MINVOCRATIO	NNVadIntf.h	105;"	d
+VD_PARAM_MINVOCRATIO	vad/NNVadIntf.h	105;"	d
+VD_PARAM_PRECTXFRAMENUM	NNVadIntf.h	65;"	d
+VD_PARAM_PRECTXFRAMENUM	vad/NNVadIntf.h	65;"	d
+VD_PARAM_PREFRAMENUM	NNVadIntf.h	101;"	d
+VD_PARAM_PREFRAMENUM	vad/NNVadIntf.h	101;"	d
+VD_PARAM_PRETHRESHOLD	NNVadIntf.h	64;"	d
+VD_PARAM_PRETHRESHOLD	vad/NNVadIntf.h	64;"	d
+VD_PARAM_WEBRTCMODE	NNVadIntf.h	57;"	d
+VD_PARAM_WEBRTCMODE	vad/NNVadIntf.h	57;"	d
+VD_PARAM_WORKMODE	NNVadIntf.h	56;"	d
+VD_PARAM_WORKMODE	vad/NNVadIntf.h	56;"	d
+VadFile	main.cpp	/^int VadFile(const char *szInputFile, int inFormat, int inSampleRate,$/;"	f
+VadFile	vad/main.cpp	/^int VadFile(const char *szInputFile, int inFormat, int inSampleRate,$/;"	f
+VadFileMain	main.cpp	/^int VadFileMain(int argc, const char * argv[]) {$/;"	f
+VadFileMain	vad/main.cpp	/^int VadFileMain(int argc, const char * argv[]) {$/;"	f
+WAVE_HEADER	main.cpp	/^} WAVE_HEADER;$/;"	t	typeref:struct:WAVE_HEADERTag	file:
+WAVE_HEADER	vad/main.cpp	/^} WAVE_HEADER;$/;"	t	typeref:struct:WAVE_HEADERTag	file:
+WAVE_HEADERTag	main.cpp	/^typedef  struct WAVE_HEADERTag$/;"	s	file:
+WAVE_HEADERTag	vad/main.cpp	/^typedef  struct WAVE_HEADERTag$/;"	s	file:
+WAVEfmt	main.cpp	/^    char WAVEfmt[8];$/;"	m	struct:WAVE_HEADERTag	file:
+WAVEfmt	vad/main.cpp	/^    char WAVEfmt[8];$/;"	m	struct:WAVE_HEADERTag	file:
+Whgilelen	main.cpp	/^    int Whgilelen;$/;"	m	struct:WAVE_HEADERTag	file:
+Whgilelen	vad/main.cpp	/^    int Whgilelen;$/;"	m	struct:WAVE_HEADERTag	file:
+__NNVAD_INTF_H__	NNVadIntf.h	15;"	d
+__NNVAD_INTF_H__	vad/NNVadIntf.h	15;"	d
+blockalign	main.cpp	/^    short  blockalign;$/;"	m	struct:WAVE_HEADERTag	file:
+blockalign	vad/main.cpp	/^    short  blockalign;$/;"	m	struct:WAVE_HEADERTag	file:
+create_full_path	main.cpp	/^void create_full_path(const char* pPath) {$/;"	f
+create_full_path	vad/main.cpp	/^void create_full_path(const char* pPath) {$/;"	f
+data	main.cpp	/^    char data[4];$/;"	m	struct:WAVE_HEADERTag	file:
+data	vad/main.cpp	/^    char data[4];$/;"	m	struct:WAVE_HEADERTag	file:
+main	main.cpp	/^int main(int argc, const char * argv[]) {$/;"	f
+main	vad/main.cpp	/^int main(int argc, const char * argv[]) {$/;"	f
+std_string_trim	main.cpp	/^std::string& std_string_trim(std::string &s) {$/;"	f
+std_string_trim	vad/main.cpp	/^std::string& std_string_trim(std::string &s) {$/;"	f
+version	main.cpp	/^    int version;$/;"	m	struct:WAVE_HEADERTag	file:
+version	vad/main.cpp	/^    int version;$/;"	m	struct:WAVE_HEADERTag	file:
